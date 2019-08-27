@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tech.orionnn.meumelhoramigo",
+    "sha256_cert_fingerprints":
+    ["0F:F0:21:C7:6D:B4:9A:5D:1C:1D:8C:ED:EE:EE:59:03:A3:D5:C9:30:7A:21:DA:9B:A8:EA:90:95:35:48:18:26"]
+  }
+}]
